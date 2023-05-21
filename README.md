@@ -5,6 +5,8 @@ Limitations:
 - No open ports
 - 6 hours delete
 
+run
+
 How to:
 - Signup for an ngrok account.
 - Get the tunnel auth token at: https://dashboard.ngrok.com/auth .
