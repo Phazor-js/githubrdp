@@ -5,7 +5,7 @@ Limitations:
 - No open ports
 - 6 hours delete
 
-run
+run xd
 
 How to:
 - Signup for an ngrok account.
